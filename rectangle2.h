@@ -1,5 +1,5 @@
 #pragma once
-#include "polygon1.h"
+#include "polygon.h"
 
 class Rectangle : public Polygon {
 public:
