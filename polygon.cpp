@@ -1,5 +1,4 @@
 #include "polygon.h"
-
 void Polygon::SetValues(int width, int height)
 {
 mWidth = width;
